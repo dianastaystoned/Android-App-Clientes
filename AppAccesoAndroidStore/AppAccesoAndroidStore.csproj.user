@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SelectedDevice>Xiaomi M2101K7BL</SelectedDevice>
+    <ActiveDebugProfile>Xiaomi M2101K7BL</ActiveDebugProfile>
+    <DefaultDevice>Pixel_4_XL_API_30</DefaultDevice>
+    <AndroidDesignerPreferredTheme>AppTheme</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredDevice>pixel_3a_xl</AndroidDesignerPreferredDevice>
+  </PropertyGroup>
+</Project>
